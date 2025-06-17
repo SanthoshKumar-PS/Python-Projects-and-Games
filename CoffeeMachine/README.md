@@ -49,7 +49,7 @@ Users can choose from:
 ## 📸 Screenshots
 
 <div>
-  <img src="screenshots/result.PNG" alt="Screen 1" width="150"/>&emsp;&emsp; 
+  <img src="screenshots/result.PNG" alt="Screen 1" width="450"/>&emsp;&emsp; 
 
 </div>
 
