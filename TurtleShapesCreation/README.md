@@ -60,11 +60,11 @@ A visually rich collection of **Turtle graphics** in Python to demonstrate funda
 ## 📸 Screenshots
 
 <div>
-  <img src="TurtleShapesCreation/screenshots/first.png" alt="first" width="400"/>&emsp;&emsp;
-  <img src="TurtleShapesCreation/screenshots/second.png" alt="second" width="400"/>&emsp;&emsp;
-  <img src="TurtleShapesCreation/screenshots/third.png" alt="third" width="400"/>&emsp;&emsp;
-  <img src="TurtleShapesCreation/screenshots/fourth.png" alt="fourth" width="400"/>&emsp;&emsp;
-  <img src="TurtleShapesCreation/screenshots/fifth.png" alt="fifth" width="400"/>&emsp;&emsp;
+  <img src="screenshots/first.png" alt="first" width="400"/>&emsp;&emsp;
+  <img src="screenshots/second.png" alt="second" width="400"/>&emsp;&emsp;
+  <img src="screenshots/third.png" alt="third" width="400"/>&emsp;&emsp;
+  <img src="screenshots/fourth.png" alt="fourth" width="400"/>&emsp;&emsp;
+  <img src="screenshots/fifth.png" alt="fifth" width="400"/>&emsp;&emsp;
 
 </div>
 
