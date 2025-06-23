@@ -70,12 +70,12 @@ python main.py
 ---
 ## 📸 Screenshots
 
-<div>
-  <img src="screenshots/first.png" alt="First Screen" width="400"/>&emsp;&emsp; 
-  <img src="screenshots/second.png" alt="Second Screen" width="400"/>&emsp;&emsp; 
-  <img src="screenshots/third.png" alt="Third Screen" width="400"/>&emsp;&emsp; 
-  <img src="screenshots/fourth.png" alt="Fourth Screen" width="400"/>&emsp;&emsp; 
-  <img src="screenshots/fifth.png" alt="Fifth Screen" width="400"/>&emsp;&emsp; 
+<div align="center">
+  <img src="screenshots/first.png" alt="First Screen" width="400"/> 
+  <img src="screenshots/second.png" alt="Second Screen" width="400"/> 
+  <img src="screenshots/third.png" alt="Third Screen" width="400"/> 
+  <img src="screenshots/fourth.png" alt="Fourth Screen" width="400"/> 
+  <img src="screenshots/fifth.png" alt="Fifth Screen" width="400"/> 
 
 
 </div>
